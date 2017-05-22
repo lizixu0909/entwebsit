@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="entwebsit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="entwebsit.war">
+      <element id="artifact" artifact-name="entwebsit:war exploded" />
+    </root>
+  </artifact>
+</component>
